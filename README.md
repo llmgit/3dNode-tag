@@ -1,7 +1,7 @@
 #  3d node-tag
  3d node-tag
 
- 这是基于斐波那契的点均匀分布球面算法，用cocos-creator 引擎工具实现的。
+This is based on Fibonacci point evenly distributed spherical algorithm, which is implemented by cocos-creator engine tool.
 
  <img src="./3dtag.png" 
 alt="3dtag" border="0" />
